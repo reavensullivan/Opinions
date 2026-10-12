@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1-Score,Latencia Promedio (ms)
+DistilBERT,0.9067,0.8944,0.929,0.9114,139.46
+RoBERTa,0.9167,0.9062,0.9355,0.9206,512.57
+MobileBERT,0.8933,0.8868,0.9097,0.8981,53.98
